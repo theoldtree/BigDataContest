@@ -1,5 +1,4 @@
 # WeatherBigDataContest
----------------
 ### CONFIRM
  - [공식홈페이지 바로가기](https://bd.kma.go.kr/contest/main.do)
  - 대회일정  
