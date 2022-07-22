@@ -2,7 +2,7 @@
 ### CONFIRM
  - [★설명 영상★](https://www.youtube.com/watch?v=gsoFHifi8zM)
  - [공식홈페이지 바로가기](https://bd.kma.go.kr/contest/main.do)
- - [슬랙](https://growth-9q81265.slack.com)
+ - [슬랙](https://app.slack.com/client/T03Q1SMA33Q/C03Q9BP8BM3)
  - 대회일정  
  ![일정](https://user-images.githubusercontent.com/40632826/170925046-fa00fe03-5c86-44c9-8174-e1baf4dbbd74.png)  
  - 제공데이터  
